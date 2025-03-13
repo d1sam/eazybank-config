@@ -1,0 +1,11 @@
+build:
+  version: "V1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "Dmytro Shulha - Manager"
+    email: "dshulha@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
