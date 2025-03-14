@@ -2,7 +2,7 @@ build:
   version: "V1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs "
+  message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
     name: "Dmytro Shulha - Manager"
     email: "{cipher}75f8b41550684da95a474f481244537d479a699ffdc228dd0533f4ba649faf47111079f2242f6044524e6b0e357fe680"
